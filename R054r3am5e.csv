@@ -1,7 +1,14 @@
 ﻿,content
 1.Scope,"This Regulation covers new pneumatic tyres* designed primarily for vehicles of categories M2, M3, N, O3 and O4., However, it does not apply to tyre types identified by speed category symbols corresponding to speeds below eighty (80) km/h."
 2.Definitions,For the purposes of this Regulation:
-2.1.,"""Type of tyre"" means tyres which do not differ in such essential characteristics as: (a)The manufacturer’s name: (b)Tyre-size designation; (c) Category of use (normal tyre, snow tyre, special use tyre); (d)Structure (diagonal (bias-ply, radial); (e)Speed category symbol; (f)Load-capacity indexes; (g)Tyre cross-section."
+2.1.,"""Type of tyre"" means tyres which do not differ in such essential characteristics as:
+(a)The manufacturer’s name:
+(b)Tyre-size designation;
+(c) Category of use (normal tyre, snow tyre, special use tyre);
+(d)Structure (diagonal (bias-ply, radial);
+(e)Speed category symbol;
+(f)Load-capacity indexes;
+(g)Tyre cross-section."
 2.2.," ""Manufacturer"" means the person or body who is responsible to the Type Approval Authority (TAA) for all aspects of the type-approval and for ensuring the conformity of production."""
 2.3.,"""Brand name/trademark"" means the identification of the brand or trademark as defined by the tyre manufacturer and marked on the sidewall(s) of the tyre. The brand name/trademark may be the same as that of the manufacturer""."
 2.4.,"""Trade description/commercial name"" means an identification of a range of tyres as given by the tyre manufacturer. It may coincide with the brand name/trademark."
@@ -47,11 +54,14 @@
 2.31.,"""Speed category"" means:"
 2.31.1.,"The speeds, indicated by a symbol, at which the tyre can carry the load indicated by the associated load-capacity index;"
 2.31.2.,The speed categories are as shown in the table below:
-2.32.,"""Table load-capacity variation with speed"" means: The table, in Annex 8, showing as a function of the load-capacity indices and nominal-speed-category symbols the load variations which a tyre can withstand when used at speeds different from that conforming to its nominal-speed-category symbol.  The load variations do not apply in the case of the additional load capacity symbol and speed category obtained when the provisions of paragraph 6.2.5. are applied;"
+2.32.,"""Table load-capacity variation with speed"" means:
+The table, in Annex 8, showing as a function of the load-capacity indices and nominal-speed-category symbols the load variations which a tyre can withstand when used at speeds different from that conforming to its nominal-speed-category symbol.  The load variations do not apply in the case of the additional load capacity symbol and speed category obtained when the provisions of paragraph 6.2.5. are applied;"
 2.33.,"""Void to fill ratio"" means the ratio between the area of voids in a reference surface and the area of this reference surface calculated from the mould drawing;"
 2.34.,"""Tyre Class"" means one of the following groupings:"
 2.34.1.,"Class C2 tyres: Tyres identified by a load capacity index in single formation lower or equal to 121 and a speed category symbol higher or equal to ""N"";"
-2.34.2.,"Class C3 tyres: Tyres identified by: (a)A load capacity index in single formation higher or equal to 122; or (b)A load capacity index in single formation lower or equal to 121 and a speed category symbol lower or equal to ""M""."
+2.34.2.,"Class C3 tyres: Tyres identified by:
+(a)A load capacity index in single formation higher or equal to 122; or
+(b)A load capacity index in single formation lower or equal to 121 and a speed category symbol lower or equal to ""M""."
 3.,Markings
 3.1.,Tyres submitted for approval shall bear on both side walls in the case of symmetrical tyres and at least on the outer side wall in the case of asymmetrical tyres:
 3.1.1.,The manufacturer’s name or the Brand name/trademark;
@@ -68,9 +78,12 @@
 3.1.8.,"The word ""TUBELESS"" if the tyre is designed for use without an inner tube;"
 3.1.9.,"The date of manufacture in the form of a group of four digits, the first two showing the week and the last two the year of manufacture.  However, this marking, which it is permissible to restrict to one sidewall, shall not be mandatory, on any tyre submitted for approval, until two years after the date of entry into force of this Regulation;"
 3.1.10.,"In the case of tyres which can be regrooved, the symbol “” at least 20 mm in diameter, or the word ""REGROOVABLE"", moulded into or on to each sidewall;"
-3.1.11.,"An indication, by the ""PSI"" index, of the inflation pressure to be adopted for the load/speed endurance tests, as explained in Annex 7, Appendix 2. However, this indication, which it is permissible to restrict to one sidewall, shall not be mandatory, on any tyre submitted for approval, until two years after the date of entry into force of this Regulation.  For tyres first approved after 1 January 2018, the Inflation pressure for the dimension measurement and for the load/speed endurance test, pursuant to paragraph 4.1.12. of this Regulation, shall be indicated in kilopascals, replacing the ""PSI"" index. It is allowed to use kPa marking instead of PSI for tyres first type approved before 1 January 2018.;"
+3.1.11.,"An indication, by the ""PSI"" index, of the inflation pressure to be adopted for the load/speed endurance tests, as explained in Annex 7, Appendix 2. However, this indication, which it is permissible to restrict to one sidewall, shall not be mandatory, on any tyre submitted for approval, until two years after the date of entry into force of this Regulation. 
+For tyres first approved after 1 January 2018, the Inflation pressure for the dimension measurement and for the load/speed endurance test, pursuant to paragraph 4.1.12. of this Regulation, shall be indicated in kilopascals, replacing the ""PSI"" index.
+It is allowed to use kPa marking instead of PSI for tyres first type approved before 1 January 2018.;"
 3.1.12.,In the case of tyres first approved after 1 March 2004 the identification referred to in paragraph 2.20.1.4. shall be placed only immediately after the rim diameter marking referred to in paragraph 2.20.1.3;
-3.1.13.,"The inscription ""MPT"" (or alternatively ""ML"" or ""ET"") and /or ""POR"" if the tyre is classified in the category of use ""special use tyre"". In addition, they may also bear the inscription M+S or M.S or M&S. ""ET"" means Extra Tread, ""ML"" stands for Mining and Logging, ""MPT"" means Multi-Purpose Truck and ""POR"" means Professional Off Road;"
+3.1.13.,"The inscription ""MPT"" (or alternatively ""ML"" or ""ET"") and /or ""POR"" if the tyre is classified in the category of use ""special use tyre"". In addition, they may also bear the inscription M+S or M.S or M&S.
+""ET"" means Extra Tread, ""ML"" stands for Mining and Logging, ""MPT"" means Multi-Purpose Truck and ""POR"" means Professional Off Road;"
 3.1.14.,"The prefix ""LT"" before the tyre size designation, or the suffix ""C"" or ""LT"" after the rim diameter marking referred to in paragraph 2.20.1.3., and, if applicable, after the tyre to rim fitment configuration referred to in paragraph 2.20.1.4., or the suffix ""LT"" after the service description. "
 3.1.14.1.,"This marking is optional in the case of tyres fitted on 5° drop centre rims, suitable for single and dual fitment, having a load capacity index in single lower or equal to 121 and destined for the equipment of motor vehicles;"
 3.1.14.2.,"This marking is mandatory in the case of tyres fitted on 5° drop centre rims, suitable for single fitment only, having a load capacity index higher or equal to 122 and destined for the equipment of motor vehicles;"
@@ -110,29 +123,61 @@
 5.4.2.,An approval number.
 5.5.,The approval mark shall be clearly legible and be indelible.
 5.6.,Annex 2 to this Regulation gives an example of the arrangement of the approval mark.
-5.7.,"Subsequent retreading in accordance with UN Regulation No. 109 In the case where, during the course of production of a particular tyre type, the manufacturer has obtained a new approval for that same tyre type to be marked with a service description indicating a higher load index or different speed symbol than the earlier marking and where the tyre manufacturer authorizes the earlier tyre type to be retreaded and marked with the later service description, the tyre manufacturer shall complete the Communication document given in Annex 9 to this Regulation and shall submit this to the Type Approval Authority that has granted the new approval.  If the authorization for upgrading only applies to tyres from a particular manufacturing plant, or produced during particular production periods, the information necessary to identify the tyres shall be stated on the Communication document.  The Type Approval Authority shall communicate this information to other Parties to the Agreement which apply this Regulation and tyre manufacturers or Type Approval Authorities shall release this information on the request of any retreading production unit that is approved in accordance with UN Regulation No. 109."
+5.7.,"Subsequent retreading in accordance with UN Regulation No. 109
+In the case where, during the course of production of a particular tyre type, the manufacturer has obtained a new approval for that same tyre type to be marked with a service description indicating a higher load index or different speed symbol than the earlier marking and where the tyre manufacturer authorizes the earlier tyre type to be retreaded and marked with the later service description, the tyre manufacturer shall complete the Communication document given in Annex 9 to this Regulation and shall submit this to the Type Approval Authority that has granted the new approval.  If the authorization for upgrading only applies to tyres from a particular manufacturing plant, or produced during particular production periods, the information necessary to identify the tyres shall be stated on the Communication document. 
+The Type Approval Authority shall communicate this information to other Parties to the Agreement which apply this Regulation and tyre manufacturers or Type Approval Authorities shall release this information on the request of any retreading production unit that is approved in accordance with UN Regulation No. 109."
 6.,Specifications
 6.1.,Dimensions of tyres
 6.1.1.,Section width of a tyre
-6.1.1.1.,"The section width shall be obtained by means of the following formula: S = S1 + K (A - A1), Where: Sis the ""section width"" rounded to the nearest millimetre and measured on the measuring rim; S1is ""the nominal section width"" in millimetres, as shown on the sidewall of the tyre in the tyre designation as prescribed; Ais the width of the measuring rim in millimetres, as shown by the manufacturer in the descriptive note; and A1is the width of the theoretical rim in millimetres. A1 shall be taken to equal S1 multiplied by the factor x as specified by the manufacturer, and K shall be taken to equal 0.4."
+6.1.1.1.,"The section width shall be obtained by means of the following formula:
+S = S1 + K (A - A1),
+Where:
+Sis the ""section width"" rounded to the nearest millimetre and measured on the measuring rim;
+S1is ""the nominal section width"" in millimetres, as shown on the sidewall of the tyre in the tyre designation as prescribed;
+Ais the width of the measuring rim in millimetres, as shown by the manufacturer in the descriptive note; and
+A1is the width of the theoretical rim in millimetres.
+A1 shall be taken to equal S1 multiplied by the factor x as specified by the manufacturer, and K shall be taken to equal 0.4."
 6.1.1.2.,"However, for the types of tyres whose designation is given in the first column of the tables in Annex 5 to this Regulation, the section width shall be deemed to be that given opposite the tyre designation in those tables."
 6.1.1.3.,"However, for tyres identified by the ""tyre to rim fitment configuration"" (see paragraph 3.1.12.) symbol ""A"", K shall be taken to equal 0.6."
 6.1.2.,Outer diameter of a tyre
-6.1.2.1.,"The outer diameter of a tyre shall be obtained by means of the following formula: D = d + 2H where: Dis the outer diameter expressed in millimetres; dis the conventional number defined in paragraph 2.20.1.3. above, expressed in millimetres; His the nominal section height rounded to the nearest millimetre and is equal to H = S1 • 0.01 Ra, where S1is the nominal section width in millimetres; Rais the nominal aspect ratio; all as shown on the sidewall of the tyre in the tyre-size designation in conformity with the requirements of paragraph 3.4. above."
+6.1.2.1.,"The outer diameter of a tyre shall be obtained by means of the following formula:
+D = d + 2H
+where:
+Dis the outer diameter expressed in millimetres;
+dis the conventional number defined in paragraph 2.20.1.3. above, expressed in millimetres;
+His the nominal section height rounded to the nearest millimetre and is equal to
+H = S1 • 0.01 Ra, where
+S1is the nominal section width in millimetres;
+Rais the nominal aspect ratio;
+all as shown on the sidewall of the tyre in the tyre-size designation in conformity with the requirements of paragraph 3.4. above."
 6.1.2.2.,"However, for the types of tyres whose designation is given in the first column of the tables in Annex 5 to this Regulation, the outer diameter shall be deemed to be that given opposite the tyre designation in those tables."
 6.1.2.3.,"However, for tyres identified by the ""tyre to rim fitment configuration"" (see paragraph 3.1.12.) symbol ""A"", the outer diameter shall be that specified in the tyre-size designation as shown on the sidewall of the tyre."
-6.1.3.,Method of measuring tyres The dimensions of tyres shall be measured by the procedure described in Annex 6 to this Regulation.
+6.1.3.,"Method of measuring tyres
+The dimensions of tyres shall be measured by the procedure described in Annex 6 to this Regulation."
 6.1.4.,Tyre section width specifications
 6.1.4.1.,The overall width of a tyre may be less than the section width or widths determined pursuant to paragraph 6.1.1. above.
 6.1.4.2.,"It may exceed that value by 4 per cent in case of radial-ply tyres and by 8 per cent in the case of diagonal (bias-ply) tyres. However, for tyres intended for dual mounting (twinning) listed in column A of the following table, the overall width of the tyre may exceed the value determined pursuant to paragraph 6.1.1. above taking into account the tolerances listed in column B; different specific tolerances are listed in annex 5 Part II in footnotes of the relevant tables. The respective limits shall be rounded to the nearest millimetre (mm)."
 6.1.4.3.,"However, for tyres identified by the ""tyre to rim fitment configuration"" (see paragraph 3.1.12.) symbol ""A"", the overall width of the tyre, in the lower area of the tyre, equals the nominal width of the rim on which the tyre is mounted, as shown by the manufacturer in the descriptive note, increased by 27 mm."
-6.1.5.,Tyre outer diameter specifications The outer diameter of a tyre must not be outside the values Dmin and Dmax obtained from the following formulae: Dmin = d + 2 • Hmin  Dmax = d + 2 • Hmax  Where: Hmin = H • arounded to the nearest mm Hmax = H • brounded to the nearest mm and
-6.1.5.1.,"For sizes listed in Annex 5 and for tyres identified by the ""tyre to rim fitment configuration"" (see paragraph 3.1.12.) symbol ""A"", the nominal section height H is equal to: H = 0.5 (D-d), rounded to the nearest mm - for references see paragraph 6.1.2.1."
-6.1.5.2.,"For other sizes, not listed in Annex 5 ""H"" and ""d"" are as defined in paragraph 6.1.2.1."
+6.1.5.,"Tyre outer diameter specifications
+The outer diameter of a tyre must not be outside the values Dmin and Dmax obtained from the following formulae:
+Dmin = d + 2 • Hmin 
+Dmax = d + 2 • Hmax 
+Where:
+Hmin = H • arounded to the nearest mm
+Hmax = H • brounded to the nearest mm
+and"
+6.1.5.1.,"For sizes listed in Annex 5 and for tyres identified by the ""tyre to rim fitment configuration"" (see paragraph 3.1.12.) symbol ""A"", the nominal section height H is equal to:
+H = 0.5 (D-d), rounded to the nearest mm - for references see paragraph 6.1.2.1."
+6.1.5.2.,"For other sizes, not listed in Annex 5
+""H"" and ""d"" are as defined in paragraph 6.1.2.1."
 6.1.5.3.,"Coefficients ""a"" and ""b"" are respectively:"
 6.1.5.3.1.,"Coefficient ""a"" = 0.97"
-6.1.5.3.2.,"Coefficient ""b""RadialDiagonal For normal use tyres 1.04  1.07 For special use tyres 1.06  1.09"
-6.1.5.3.3.,"For tyres of the category of use “snow tyre” the outer diameter shall not exceed the following value Dmax,snow = 1.01 • Dmaxrounded to the nearest mm  where Dmax is the maximum outer diameter established in conformity with the above."
+6.1.5.3.2.,"Coefficient ""b""RadialDiagonal
+For normal use tyres 1.04  1.07
+For special use tyres 1.06  1.09"
+6.1.5.3.3.,"For tyres of the category of use “snow tyre” the outer diameter shall not exceed the following value
+Dmax,snow = 1.01 • Dmaxrounded to the nearest mm
+ where Dmax is the maximum outer diameter established in conformity with the above."
 6.2.,Load/speed endurance test
 6.2.1.,Each type of tyre shall undergo at least one load/speed endurance tests carried out by the procedure described in Annex 7 to this Regulation.
 6.2.2.,"A tyre which, after undergoing the endurance test, does not exhibit any tread separation, ply separation, cord separation, chunking or broken cords shall be deemed to have passed the test."
@@ -140,8 +185,18 @@
 6.2.4.,"Where application is made for the approval of a type of tyre for the load/speed combinations given in the table in Annex 8, the endurance test prescribed in paragraph 6.2.1. above need not be carried out for load and speed values other than the nominal values."
 6.2.5.,"Where application is made for the approval of a type of tyre which has a load/speed combination in addition to the one that is subject to the variation of load with speed given in the table in Annex 8, the endurance test prescribed in paragraph 6.2.1. above shall also be carried out on a second tyre of the same type at the additional load/speed combination."
 6.3.,Tread pattern of a tyre
-6.3.1.,"In order to be classified as a ""special use tyre"" a tyre shall have a block tread pattern in which the blocks are larger and more widely spaced than for normal tyres and have the following characteristics: For C2 tyres: a tread depth ≥ 11 mm and void to fill ratio ≥ 35 per cent For C3 tyres: a tread depth ≥ 16 mm and void to fill ratio ≥ 35 per cent"
-6.3.2.,"In order to be classified as a 'professional off-road tyre', a tyre shall have all of the following characteristics: (a)For C2 tyres: (i)A tread depth ≥ 11 mm; (ii)A void to fill ratio ≥ 35 per cent; (iii)A maximum speed rating of ≤ Q. (b)For C3 tyres: (i)A tread depth ≥ 16 mm; (ii)A void to fill ratio ≥ 35 per cent; (iii)A maximum speed rating of ≤ K."
+6.3.1.,"In order to be classified as a ""special use tyre"" a tyre shall have a block tread pattern in which the blocks are larger and more widely spaced than for normal tyres and have the following characteristics:
+For C2 tyres: a tread depth ≥ 11 mm and void to fill ratio ≥ 35 per cent
+For C3 tyres: a tread depth ≥ 16 mm and void to fill ratio ≥ 35 per cent"
+6.3.2.,"In order to be classified as a 'professional off-road tyre', a tyre shall have all of the following characteristics:
+(a)For C2 tyres:
+(i)A tread depth ≥ 11 mm;
+(ii)A void to fill ratio ≥ 35 per cent;
+(iii)A maximum speed rating of ≤ Q.
+(b)For C3 tyres:
+(i)A tread depth ≥ 16 mm;
+(ii)A void to fill ratio ≥ 35 per cent;
+(iii)A maximum speed rating of ≤ K."
 7.,Modification and extension of approval of a tyre type
 7.1.,Every modification of a tyre type shall be notified to the Type Approval Authority which approved the tyre type. That Authority may then either:
 7.1.1.,Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the tyre still meets the requirements; or
@@ -149,13 +204,15 @@
 7.2.,A modification of the tread pattern of the tyre shall not be considered to necessitate a repetition of the tests prescribed in paragraph 6. of this Regulation.
 7.3.,"Confirmation or refusal of approval, specifying the alterations, shall be communicated by the procedure specified in paragraph 5.3. above to the Parties to the Agreement which apply this Regulation."
 7.4.,The competent Type Approval Authority issuing the extension of approval shall assign a series number for such an extension and inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation.
-8.,"Conformity of production The conformity of production procedures shall comply with those set out in the Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3), with the following requirements:"
+8.,"Conformity of production
+The conformity of production procedures shall comply with those set out in the Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3), with the following requirements:"
 8.1.,"Tyres approved under this Regulation shall be so manufactured as to conform to the type approved, by meeting the requirements set forth in paragraph 6. above."
 8.2.,"The Type Approval Authority which has granted type approval may at any time verify the conformity control methods applied in each production facility.  For each production facility, the normal frequency of these verifications shall be once every two years."
 9.,Penalties for non-conformity of production
 9.1.,The approval granted in respect of a type of tyre pursuant to this Regulation may be withdrawn if the requirement laid down in paragraph 8.1. above is not complied with or if the tyres taken from the series have failed to pass the tests prescribed in that paragraph.
 9.2.,"If a Party to the Agreement which applies this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in annex 1 to this Regulation."
-10.,"Production definitively discontinued If the holder of an approval completely ceases to manufacture a type of tyre approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval.  Upon receiving the relevant communication that Authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of copies of the communication form conforming to the model in Annex 1 to this Regulation."
+10.,"Production definitively discontinued
+If the holder of an approval completely ceases to manufacture a type of tyre approved in accordance with this Regulation, he shall so inform the Type Approval Authority which granted the approval.  Upon receiving the relevant communication that Authority shall inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of copies of the communication form conforming to the model in Annex 1 to this Regulation."
 11.,"Names and addresses of Technical Services responsible for conducting approval tests, of test laboratories, and of Type Approval Authorities"
 11.1.,"The Contracting Parties to the 1958 Agreement which apply this Regulation shall communicate to the United Nations Secretariat the names and addresses of the technical services responsible for conducting approval tests and, where applicable, of the approved test laboratories and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension of approval or refusal of approval or withdrawal of approval or production definitively discontinued, issued in other countries, are to be sent."
 11.2.,"The Contracting Parties to the 1958 Agreement which apply this Regulation may designate laboratories of tyre manufacturers, as approved, test laboratories."
